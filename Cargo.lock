@@ -521,6 +521,7 @@ version = "0.1.0"
 dependencies = [
  "ntex",
  "serde",
+ "utoipa",
  "utoipa-swagger-ui",
 ]
 
