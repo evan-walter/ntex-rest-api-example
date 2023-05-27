@@ -7,3 +7,5 @@ edition = "2021"
 
 [dependencies]
 ntex = { version = "0.6.7", features = ["tokio"] }
+serde = { version = "1.0.163", features = ["derive"] }
+utoipa-swagger-ui = "3.1.3"
