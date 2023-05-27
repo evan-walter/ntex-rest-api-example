@@ -1,0 +1,12 @@
+{
+    "editor.rulers": [80],
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false,
+    "editor.trimAutoWhitespace": true,
+    "editor.formatOnSave": false,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "rust-analyzer.showUnlinkedFileNotification": false,
+    "rust-analyzer.checkOnSave": true,
+    "rust-analyzer.check.command": "clippy"
+}
